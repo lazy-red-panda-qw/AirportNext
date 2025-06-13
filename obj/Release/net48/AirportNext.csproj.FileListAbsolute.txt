@@ -1,0 +1,9 @@
+F:\Visual Studio\programmes\AirportNext\bin\Release\net48\AirportNext.dll
+F:\Visual Studio\programmes\AirportNext\bin\Release\net48\AirportNext.pdb
+F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.csproj.AssemblyReference.cache
+F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.AssemblyInfoInputs.cache
+F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.AssemblyInfo.cs
+F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.csproj.CoreCompileInputs.cache
+F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.dll
+F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.pdb
