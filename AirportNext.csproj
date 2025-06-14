@@ -78,8 +78,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="CustomAssets\CustomDecals\Alphabet\Outbound-B\" />
-	  <Folder Include="CustomAssets\CustomDecals\Alphabet\Outbound-C\" />
+	  <Folder Include="CustomAssets\CustomDecals\Alphabet\Outbound B\" />
+	  <Folder Include="CustomAssets\CustomDecals\Alphabet\Outbound C\" />
 	</ItemGroup>
 
 </Project>

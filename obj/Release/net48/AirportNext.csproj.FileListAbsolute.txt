@@ -7,3 +7,4 @@ F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.AssemblyIn
 F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.csproj.CoreCompileInputs.cache
 F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.dll
 F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.pdb
+F:\Visual Studio\programmes\AirportNext\obj\Release\net48\AirportNext.sourcelink.json
