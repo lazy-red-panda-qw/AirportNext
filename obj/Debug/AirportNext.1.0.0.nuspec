@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>AirportNext</authors>
     <description>Package Description</description>
-    <repository type="git" />
+    <repository type="git" commit="e3c590a57f3521cad01071f4ea73802fdecfdb8e" />
     <dependencies>
       <group targetFramework=".NETFramework4.8" />
     </dependencies>
