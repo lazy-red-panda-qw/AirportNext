@@ -22,6 +22,12 @@ Add some new decals and neetlines to the game, making it much easier to decorate
 - Add extra dedails to your airport ground
 - Make your airport looks super real and sick
 
+## Currently we have:
+- **FULL** packs of basic taxiway marks (A-Z,outbound and normal)
+- Basic taxiway lanes(normal and enhanced, including an ILS Critical Boundary)
+- Runway markings, e.g. full pack of the numbers and L, R and C
+- Lines with different colours and thickness, which you can use them to create touch down zones easily
+
 ## Note:
 - This mod is designed for detailing the ground, so it contains only decals and netlanes
 - Considering the different sizes of players' airports and the different customisation needs of different players, the components added by this mod are not "standard parts" - more basic markings and textures to give different players more room for DIY!
@@ -38,7 +44,7 @@ Add some new decals and neetlines to the game, making it much easier to decorate
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="" />
 	<!--Version of the mod-->
-	<ModVersion Value="0.0.2.0" />
+	<ModVersion Value="0.0.2.1" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="1.3.*" />
 	<!--Dependency for the mod, can be set multiple times-->
@@ -47,7 +53,7 @@ Add some new decals and neetlines to the game, making it much easier to decorate
 	<!--Required DLC, can be set multiple times. Supported values are "Landmark Buildings", "San Fransisco Set", "Beach Properties", "Urban Promenades", "Modern Architecture"-->
 	<RequiredDLC Value="" />
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
-	<ChangeLog Value="Complete basic runway markings(L, C and R, and 0-9 in different sizes(L, M and S))" />
+	<ChangeLog Value="Added new netlanes in different colours and thickness so you can use them to create more detials, e.g. Touchdown zones more easily." />
 	<!--<ChangeLog>
 	</ChangeLog>-->
 	<!--External link, can be set multiple times. supported types are "discord", "github", "youtube", "twitch", "x", "paypal", "patreon", "buymeacoffee", "kofi", "crowdin", "gitlab", "gofundme"-->
