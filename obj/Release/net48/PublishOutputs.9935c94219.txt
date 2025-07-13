@@ -1,2 +1,0 @@
-F:\Visual Studio\programmes\AirportNext\bin\Release\net48\AirportNext.dll
-F:\Visual Studio\programmes\AirportNext\bin\Release\net48\AirportNext.pdb
