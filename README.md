@@ -5,7 +5,7 @@
 - Full packs of basic taxiway marks (A-Z,outbound & normal)
 - Basic taxiway lanes(normal & enhanced, including an ILS Critical Boundary)
 - Runway markings, e.g. full pack of the numbers and L, R & C
-- - Lines with different colours and thickness
+- Lines with different colours and thickness
 ### Future plan:
 - More taxiway lanes, e.g. shoulders
 - Airport ground surfaces
