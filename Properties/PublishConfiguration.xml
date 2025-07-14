@@ -8,34 +8,43 @@
 	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
 	<!--LongDescription Value="" /-->
 	<LongDescription>
-# This is my first mod and I'm still learning more, so:
+# My First Mod - Still Learning and Evolving!
 
-- It contains BASIC markings currently
-- I'll update more contants through the future updates
+- Currently contains **basic** markings.
+- More content will be added in future updates!
 
-# An eazy way to detail your airport!
+# Easily Detail Your Airport Ground!
 
-Add some new decals and neetlines to the game, making it much easier to decorate your airport ground.
+This mod adds new decals and netlane markings to the game, making it much easier to decorate your airport surfaces.
 
 ## With this mod, you can:
 
-- Add extra dedails to your airport ground
-- Make your airport looks super real and sick
+- Add intricate details to your airport taxiways, runways, and aprons.
+- Make your airport look highly realistic and professional.
 
-## Currently we have:
-- **FULL** packs of basic taxiway marks (A-Z,outbound and normal)
-- Basic taxiway lanes(normal and enhanced, including an ILS Critical Boundary)
-- Runway markings, e.g. full pack of the numbers and L, R and C
-- Lines with different colours and thickness, which you can use them to create touch down zones easily
+## Currently Included:
 
-## Note:
-- This mod is designed for detailing the ground, so it contains only decals and netlanes
-- Considering the different sizes of players' airports and the different customisation needs of different players, the components added by this mod are not "standard parts" - more basic markings and textures to give different players more room for DIY!
+- **Complete sets** of basic taxiway markings: Letters (A-Z), "OUTBOUND" text, standard holding points.
+- Basic taxiway centerline markings (standard and enhanced styles, including an **ILS Critical Area Boundary** marking).
+- Runway markings: Full sets of runway numbers (**0-9**) and suffix letters (**L, R, C**) in different sizes (**Small, Medium, Large**)
+- Straight lines in various colors (e.g., white, yellow) and widths (thin, medium, thick) - perfect for creating touchdown zones or other custom markings.
+- **Complete sets** of white letter and number decals (A-Z, 0-9) for adding detailed labels and information.
 
-## Future plan:
-- Add all decals and netlines and even surfaces that you'll need to create a FAA-legal airport!
+## Important Notes:
 
-### If you have any questions or suggestions, welcome to tell me at 2929954331@qq.com, I'm all ears!
+- This mod focuses on ground detailing, providing **decals and painted line markings only** (no 3D objects or functional changes).
+- To accommodate airports of all sizes and diverse player creativity, the included elements are **basic building blocks**. They are not pre-configured "standard parts" but rather versatile markings and textures, giving you maximum freedom for DIY customization!
+
+## Future Plans:
+
+- Add additional letter sets in **yellow** and **black** color schemes for greater visual variety.
+- Add more essential markings: Runway shoulders, taxiway shoulders, more kinds of direction arrows, etc.
+
+## Ultimate Goal:
+
+- Provide all the decals, line markings, and surface textures needed to create a **FAA-compliant** (or ICAO-standard) airport!
+
+### If you have any questions or suggestions, I'm all ears! Please contact me at: 2929954331@qq.com
 	</LongDescription>
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/Thumbnail.jpg" />
@@ -47,7 +56,7 @@ Add some new decals and neetlines to the game, making it much easier to decorate
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="" />
 	<!--Version of the mod-->
-	<ModVersion Value="0.0.2.3" />
+	<ModVersion Value="0.0.2.4" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="1.3.*" />
 	<!--Dependency for the mod, can be set multiple times-->
@@ -56,7 +65,7 @@ Add some new decals and neetlines to the game, making it much easier to decorate
 	<!--Required DLC, can be set multiple times. Supported values are "Landmark Buildings", "San Fransisco Set", "Beach Properties", "Urban Promenades", "Modern Architecture"-->
 	<RequiredDLC Value="" />
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
-	<ChangeLog Value="Added full pack of normal markings(0-9,A-Z)" />
+	<ChangeLog Value="Completed the pack of normal markings(0-9,A-Z), now they have a smaller version to better match the sizes of existing ones" />
 	<!--<ChangeLog>
 	</ChangeLog>-->
 	<!--External link, can be set multiple times. supported types are "discord", "github", "youtube", "twitch", "x", "paypal", "patreon", "buymeacoffee", "kofi", "crowdin", "gitlab", "gofundme"-->
